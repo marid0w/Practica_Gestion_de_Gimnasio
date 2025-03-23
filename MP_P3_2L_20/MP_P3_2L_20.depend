@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714983804 source:c:\users\irene\onedrive\;)\1\segundo cuatri\mp\p1\mp_p3_2l_20\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1719137063 source:c:\users\irene\onedrive\;)\1\segundo cuatri\mp\p3\mp_p3_2l_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+

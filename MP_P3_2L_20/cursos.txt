@@ -1,0 +1,5 @@
+Meditacion#10#20
+Running#25#25
+Esgrima#10#40
+Karate#20#45
+Crossfit#15#20

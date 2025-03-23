@@ -1,0 +1,7 @@
+12345678A;Juan;Pérez;García;23;6;2024
+23456789B;María;López;Fernández;23;6;2024
+34567890C;Carlos;Martínez;Ruiz;23;6;2024
+45678901D;Ana;Gómez;Sánchez;23;6;2024
+56789012E;Luis;Rodríguez;Hernández;23;6;2024
+70271408Z;Maria;Miguelsanz;Maqueda;23;6;2024
+70271408Z;Maria;Miguelsanz;Maqueda;23;6;2024
